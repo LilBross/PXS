@@ -1,0 +1,25 @@
+Weapon SFX mastered from OpenGameArt open-licensed recordings:
+- Q009's weapon sounds (CC-BY-SA 3.0) - https://opengameart.org/content/q009s-weapon-sounds
+- Handling Guns by Gary (CC-BY-SA 3.0) - https://opengameart.org/content/handling-guns
+- Gun reload sounds by SpringySpringo (CC0) - https://opengameart.org/content/gun-reload-sounds
+- Handgun Reload Sound Effect by zer0_sol (CC0) - https://opengameart.org/content/handgun-reload-sound-effect
+- Gun Reload Sound Effects by BMacZero (CC0) - https://opengameart.org/content/gun-reload-sound-effects
+
+Additional Freesound.org sounds (all CC0; processed/cropped from public preview downloads):
+- Shotgun Rack Sample by Krovi (CC0) - https://freesound.org/people/Krovi/sounds/613801/
+- AWP Reload Sound by GFL7 (CC0; used only for its bolt-action transients) - https://freesound.org/people/GFL7/sounds/276956/
+- Assault Rifle Reload by Kodack (CC0) - https://freesound.org/people/Kodack/sounds/256912/
+- TRANSPORTATION CAR PASS BY 01 by sengjinn (CC0; two approach-timed crops) - https://freesound.org/people/sengjinn/sounds/176215/
+
+NPC Sans-style voice sample supplied by the user (stored as `npc_sansvoice_source.mp3` and converted into eight short voice-blip variants).
+Prologue: the existing project voice-blip variants are pitched and filtered at playback. No spoken dinner recordings.
+Wife's dialogue (Web prologue): "toriels voiceeeeeeee", uploaded by lorzenz on Myinstants. Source: https://www.myinstants.com/ru/instant/toriels-voiceeeeeeee-91511/ ; original MP3: https://www.myinstants.com/media/sounds/voice_toriel.mp3 . Playback rate 1.2 × 2^(-11/12). Attribution is not a redistribution license.
+
+flat_chime.wav: original two-tone household doorbell created for Chapter 00.
+Player dialogue: Undertale text (snd_text1), button uploaded by platinum6. https://www.myinstants.com/en/instant/undertale-text-7159/ ; local MP3 from https://www.myinstants.com/media/sounds/undertale-text.mp3 . Kept at original pitch, playback level adjusted. Attribution is not a distribution licence.
+
+window_report.wav — original cinematic impact.
+motel_breath_take.wav is an edited montage of two actual breathing recordings, downloaded from Freesound:
+• “Men Pant.wav” by nicklas3799 — https://freesound.org/people/nicklas3799/sounds/467369/ — CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ — https://cdn.freesound.org/previews/467/467369_8477872-hq.mp3
+• “Heavy Breathing.wav” by ceberation — https://freesound.org/people/ceberation/sounds/235519/ — CC BY 3.0 https://creativecommons.org/licenses/by/3.0/ — https://cdn.freesound.org/previews/235/235519_3770095-hq.mp3
+Changes: excerpt selection, mono downmix, rumble filtering, level adjustment, time/rate edits and fades. The montage and these credits travel with the game.
